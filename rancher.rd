@@ -28,6 +28,7 @@ $ docker run -d --restart=always -p 8080:8080 rancher/server
 		https://ip:8080
 		
 	11. Esto nos va a dirigir al login y agregamos un  password y confirmamos
+
 	12. Ingresamos a rancher 
 # Creacion de Cluster
 	Esto se hace adentro de rancher logueados en el usuario
