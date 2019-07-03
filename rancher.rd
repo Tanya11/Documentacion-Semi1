@@ -63,5 +63,5 @@ $ docker run -d --restart=always -p 8080:8080 rancher/server
 	4. El cluster debe de jalar todo lo del dockerfile y crear la imagen
 	5. puede tardar unos minutos
 	6. Esto ya deberaia de crear la pagina en el puerto que se le asigno
-	7.  FIN
+	7.  FIN :D
 	
