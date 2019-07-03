@@ -73,6 +73,7 @@ despliegue de imagenes con docker compose
       $ docker-compose up
       
 Si desea dar de baja a las imagenes ejecutar:
-      $ docker-compose down
+     
+     $ docker-compose down
 
 La página web se ejecutará sobre el puerto especificado en el archivo docker-compose.yml (3257)
