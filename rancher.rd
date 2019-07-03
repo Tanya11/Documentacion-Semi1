@@ -61,5 +61,6 @@ $ docker run -d --restart=always -p 8080:8080 rancher/server
 	2. el cluster va a detectar el commit
 	3. Esperar a que se actualicen los repositoris y esperar
 	4. El cluster debe de jalar todo lo del dockerfile y crear la imagen
-	5.puede tardar unos minutos
+	5. puede tardar unos minutos
+	6. Esto ya deberaia de crear la pagina en el puerto que se le asino
 	
